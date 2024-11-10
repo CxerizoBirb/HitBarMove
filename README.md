@@ -8,5 +8,5 @@ Features:
 - toggle colours of timing bar
 
 Todo:
-- Move mod settings from quick mod settings -> settings menu mod settings
+- Move mod settings from quick mod settings menu -> mod settings menu
 - Add colour pallete options
