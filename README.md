@@ -10,3 +10,4 @@ Features:
 Todo:
 - Move mod settings from quick mod settings menu -> mod settings menu
 - Add colour pallete options
+- Add scaling options
