@@ -1,3 +1,5 @@
+Required mods: Spincore
+
 Adds a little customizability to hit timing bar.
 
 Features:
