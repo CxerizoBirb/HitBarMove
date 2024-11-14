@@ -10,4 +10,3 @@ Features:
 
 Todo:
 - Add colour pallete options
-- Add scaling options
