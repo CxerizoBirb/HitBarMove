@@ -10,3 +10,5 @@ Features:
 
 Todo:
 - Add colour pallete options
+- Add judgement moving
+- Add option to replace judgements with timing in ms
